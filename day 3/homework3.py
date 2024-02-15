@@ -1,10 +1,10 @@
-dedachemis_wlovaneba=51
+dedachemis_wlovaneba=43
 print(dedachemis_wlovaneba)
 
 dedachemis_wlovaneba2=dedachemis_wlovaneba + 2
 print(dedachemis_wlovaneba2)
 
-mamachemis_wlovaneba=54
+mamachemis_wlovaneba=48
 print(mamachemis_wlovaneba)
 
 mamachemis_wlovaneba2=mamachemis_wlovaneba + 2
