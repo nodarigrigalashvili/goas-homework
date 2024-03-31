@@ -19,7 +19,7 @@ def list(keyboard_keys):
 
 list = ["hello", "bye", 234, 0.1]
 
-print(len(list))
+
 
 def my_handle(self):
     sentence = ' hello  apple  '
