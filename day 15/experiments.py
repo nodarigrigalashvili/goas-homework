@@ -1,12 +1,15 @@
 List = ["wow", "look", 13421, 0.0, "heya" "lol"]
 
 
-def list2(index1, index2):
-    index = List.index([0],[-1])
-    if index1 == List[0]:
-        if index2 == List[-1]:
-            print(index)
+#variables can be used both in global and in local in local yuou can only use it in code blocks
 
-list2("lol","lol")
-    
 
+def hello(world):
+    kev = ' '
+
+    for i in range(len(world) -1, -1, -1):
+        kev = kev + world[i]
+
+    print(kev == world)
+
+hello('nodododo')

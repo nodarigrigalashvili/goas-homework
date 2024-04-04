@@ -15,7 +15,7 @@ colors("yellow","red")
 def window(window1,window2):
     return window1 + window2
 
-window("clos","et")
+print(window("clos","et"))
 
 def wow(jeez,dang):
     if jeez[0] == "j":
@@ -23,7 +23,7 @@ def wow(jeez,dang):
     if dang[-1] == "g":
         print("dang")
 
-wow("jewlery","bing")
+print(wow("jewlery","bing"))
 
 def clouds():
     big = "cirrocumulus cloud"
