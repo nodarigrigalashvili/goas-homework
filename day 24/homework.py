@@ -6,7 +6,7 @@ for i in range(len(wow)):
 print(hello)
 
 
-Dang = ["goog", 0.4, 23, False, "fasp", "lol", 1.5, 0.1, 10.5]
+Dang = ["goog", 23, 0.4, False, "fasp", "lol", 1.5, 0.1, 10.5]
 heya = 0
 for i in Dang:
     if type(i) == int:
@@ -33,14 +33,12 @@ for i in name:
         heya2 = heya2 + i.lower()
 print(heya2)
 
-Listofnumbers = [1,1,1,1,3,4,5,6]
-world = 0
-lol = 0
-for i in Listofnumbers:
-    if i == world:
-        lol = lol + 1
-    world = world + i
-print(lol)
+
+list2 = [1,1,1,1,3,4,5,6]
+
+    
+
+
      
 
     
